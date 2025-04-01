@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: rgb(13, 214, 117);
+    color: yellow;
+}
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    text-align: center;
+  }
+  .w {
+    color: white;
+  }
+.special {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
